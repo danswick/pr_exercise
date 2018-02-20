@@ -2,3 +2,4 @@
 
 * Mal Wood-Santoro
 * Dan Swick
+* Shannon Myricks
